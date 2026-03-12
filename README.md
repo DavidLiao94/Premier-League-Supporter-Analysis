@@ -1,5 +1,5 @@
 # 📊 Premier League Multi-Platform Supporter Analysis (March 2026)
-
+View the Interactive Dashboard & Master Dataset:https://docs.google.com/spreadsheets/d/1LHwDX7DATHB-Crb3xN2AQHcgz7meNm7jl6azNTEkLtg/edit?gid=0#gid=0
 ## 📌 Project Overview
 This project provides a comprehensive cross-channel benchmark of **Arsenal FC** against its primary Premier League rivals. By analysing supporter distributions across five major platforms, this report identifies where Arsenal is winning and where growth opportunities exist to recapture digital market share.
 
