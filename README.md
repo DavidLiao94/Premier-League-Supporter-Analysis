@@ -1,4 +1,4 @@
-# 📊 Premier League Big Six Multi-Platform Supporter Analysis (March 2026)
+# 📊 Premier League The Big Six Multi-Platform Supporter Analysis (March 2026)
 View the Interactive Dashboard & Master Dataset:https://docs.google.com/spreadsheets/d/1LHwDX7DATHB-Crb3xN2AQHcgz7meNm7jl6azNTEkLtg/edit?gid=0#gid=0
 ## 📌 Project Overview
 This project provides a comprehensive cross-channel benchmark of **Arsenal FC** against its primary Premier League rivals. By analysing supporter distributions across five major platforms, this report identifies where Arsenal is winning and where growth opportunities exist to recapture digital market share.
@@ -16,6 +16,7 @@ This project provides a comprehensive cross-channel benchmark of **Arsenal FC** 
 | **Arsenal** | 45.8M | 30.9M | 23.0M | 9.7M | 4.7M | **114.1M** |
 | **Tottenham** | 35.2M | 19.3M | 9.2M | 40.6M | 3.8M | **108.1M** |
 
+[North London TikTok Analysis](Screenshot (12).png)
 ## 💡 Strategic Insights & Recommendations
 1. **The "North London" TikTok Divergence:** While Arsenal (114M) holds a larger total global footprint than Tottenham (108M), **Spurs have nearly 4x the followers on TikTok (40.6M vs 9.7M).** This indicates Spurs are successfully capturing the "Gen Z" demographic through original, behind-the-scenes vertical video content.
 2. **YouTube Engagement Leadership:** Liverpool is the first PL club to surpass 11M YouTube subscribers, leveraging long-form storytelling. Arsenal (4.7M) has a significant opportunity to grow its YouTube presence by pivoting toward "episodic" content that mirrors Liverpool's successful model.
