@@ -15,6 +15,7 @@ This project provides a comprehensive cross-channel benchmark of **Arsenal FC** 
 | **Chelsea** | 56.5M | 42.6M | 29.2M | 18.7M | 5.8M | **152.9M** |
 | **Arsenal** | 45.8M | 30.9M | 23.0M | 9.7M | 4.7M | **114.1M** |
 | **Tottenham** | 35.2M | 19.3M | 9.2M | 40.6M | 3.8M | **108.1M** |
+
 Upload: tiktok-chart.png
 ## 💡 Strategic Insights & Recommendations
 1. **The "North London" TikTok Divergence:** While Arsenal (114M) holds a larger total global footprint than Tottenham (108M), **Spurs have nearly 4x the followers on TikTok (40.6M vs 9.7M).** This indicates Spurs are successfully capturing the "Gen Z" demographic through original, behind-the-scenes vertical video content.
